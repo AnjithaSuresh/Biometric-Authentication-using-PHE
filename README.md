@@ -1,6 +1,4 @@
 # Biometric-Authentication-using-PHE
-Goldwasser-Micali encryption used, coded in java, database in mysql
-
 
 This is a implementation of biometric authentication using partially homomorphic encryption. The encryption used is Goldwasser-Micali encryption system. The code is written in java.
 
