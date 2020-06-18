@@ -10,11 +10,11 @@ serverdb - name(varchar(50)), enfp(longtext)
 
 ## Cryptosystem
 Goldwasser-Micali encryption and decryption\
-We generated keys using Gen.java and hardcoded into encryption and decryption.\
-###### Encryption\
+We generated keys using Gen.java and hardcoded into encryption and decryption.
+###### Encryption
 input - message (as string)\
-output - encrypted message (as biginteger matrix)\
-###### Decryption\
+output - encrypted message (as biginteger matrix)
+###### Decryption
 input - encrypted message (as biginteger matrix)\
 output - message (as string)
 
